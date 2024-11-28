@@ -2,16 +2,7 @@
 """
 Created on Thu Oct 19 11:16:10 2023
 
-
-Aufgabe 1.1 (Vorlesung 1)
-4 verschiedene Flächenquellen aufnehmen
-->Array erstellen und Position der Flächenquellen markieren
-->Charakter d. radioaktiven Zerfalls auf den Flächenquellen einbringen
-->Untergrundrauschen einbringen?
-->alle 4 Quellen in einem Plot erstellen (als Bild speichern?)
-
-
-@author: Noah
+@author: Tastat
 """
 
 import numpy as np
